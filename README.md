@@ -4,7 +4,7 @@
 
 I build real world problem solving softwares with seamless user interface and user experience. 
 
-###Tech Stack
+##Tech Stack
 **Frontend**
 Next.JS, React, Tailwind CSS, Framer(Motion), GSAP, Flask
 
