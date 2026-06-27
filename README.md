@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there, I'm Hamza Channa 👋
 
-<!--
-**hamzachanna/hamzachanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | UI/UX Designer**
 
-Here are some ideas to get you started:
+I build real world problem solving softwares with seamless user interface and user experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Tech Stack
+**Frontend**
+Next.JS, React, Tailwind CSS, Framer(Motion), GSAP, Flask
+
+**Backend**
+Node.JS, Python
+
+**Database**
+PostgreSQL, MySQL, MongoDB
+
+**API**
+Firebase, Stripe, OpenAPI
